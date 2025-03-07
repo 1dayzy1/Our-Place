@@ -127,3 +127,46 @@
     margin-left: 384px;
     margin-top: 200px;
 }
+
+.container-main{
+    background-color: #F5F1E9;
+    padding: 125px 150px 125px 150px;
+}
+
+.h1-text{
+    text-align-last: center;
+
+}
+
+.container-logo{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    
+}
+
+.logo-main{
+    margin-right: 113px;
+    cursor: pointer;
+    
+}
+
+.container-welcome{
+    padding: 170px;
+    display: flex;
+    justify-content: space-around;
+    background-color: #f9f6f3;
+
+}
+
+.h1-welcome{
+    font-weight: 700;
+    font-size: 41px;
+    
+}
+
+.page-text-welcome{
+    font-size: 16px;
+    font-weight: 400;
+    color: #4F463F;
+}
